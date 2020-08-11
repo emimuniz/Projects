@@ -9,12 +9,11 @@
 
 
 ## 🏷️ Projetos em React Js
-- [💡 AppCorona](https://github.com/emimuniz/AllProjects/tree/master/AppCorona/app-corona)
-- [💡 Pepitto](https://github.com/emimuniz/AllProjects/tree/master/Pepitto/pepitto)
-- [💡 Agenda telefonica](https://github.com/emimuniz/AllProjects/tree/master/agenda-telefonica) 
-- [💡 Encurtador - Dev magic](https://github.com/emimuniz/AllProjects/tree/master/dev-magic)
-- [💡 Github App](https://github.com/emimuniz/AllProjects/tree/master/github-app)
-- [💡 Lyrics Search](https://github.com/emimuniz/AllProjects/tree/master/lyrics-search)
+- [💡 AppCorona](https://github.com/emimuniz/APPCORONA/tree/master/app-corona)
+- [💡 Pepitto](https://github.com/emimuniz/Pepitto/tree/master/pepitto)
+- [💡 Encurtador - Dev magic](https://github.com/emimuniz/Dev-magic)
+- [💡 Github App](https://github.com/emimuniz/github-app)
+- [💡 Lyrics Search](https://github.com/emimuniz/Lyrics-search)
 - [💡 Primeiro APP](https://github.com/emimuniz/AllProjects/tree/master/primeiro-react)
 - [💡 TIK TOK CLONE](https://github.com/emimuniz/TIK-TOK-CLONE)
 - [💡 NETFLIX CLONE](https://github.com/emimuniz/NETFLIX-CLONE)
