@@ -17,6 +17,8 @@
 - [💡 Lyrics Search](https://github.com/emimuniz/AllProjects/tree/master/lyrics-search)
 - [💡 Primeiro APP](https://github.com/emimuniz/AllProjects/tree/master/primeiro-react)
 - [💡 TIK TOK CLONE](https://github.com/emimuniz/TIK-TOK-CLONE)
+- [💡 NETFLIX CLONE](https://github.com/emimuniz/NETFLIX-CLONE)
+
 
 
 ## 🏷️ Projetos da Projetos_Rockseat em React
