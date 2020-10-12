@@ -40,7 +40,6 @@
 ## 📚 Estudos
 - 💡 Exercicios Resolvidos 
   - [UriOnlineJudge](https://github.com/emimuniz/URIONLINEJUGDLE)
-  - [CodeWars](https://github.com/emimuniz/Praticando-Js/tree/master/CodeWars)
   - [Faculdade](https://github.com/emimuniz/TrabalhosFaculdade)
   - [Curso Javascript Ninja](https://github.com/emimuniz/curso-javascript-ninja)
   - [Curso Node.JS Avançado](https://github.com/emimuniz/Curso-Node.JS-Avan-ado)
