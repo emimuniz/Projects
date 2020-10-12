@@ -43,7 +43,7 @@
   - [CodeWars](https://github.com/emimuniz/Praticando-Js/tree/master/CodeWars)
   - [Faculdade](https://github.com/emimuniz/TrabalhosFaculdade)
   - [Curso Javascript Ninja](https://github.com/emimuniz/curso-javascript-ninja)
-  - [Curso Node.JS Avançado](https://github.com/emimuniz/CursoNode.JS)
+  - [Curso Node.JS Avançado](https://github.com/emimuniz/Curso-Node.JS-Avan-ado)
   - [Curso Node.JS Basico](https://github.com/emimuniz/CursoNodeJS)
   - [Curso Asp.net Core - WEB API](https://github.com/emimuniz/Curso-Asp.net-Core-WEB-API)
   - [Curso React](https://github.com/emimuniz/CursoReactMaximilian)
