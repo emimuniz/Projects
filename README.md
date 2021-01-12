@@ -41,6 +41,8 @@
 - 💡 Exercicios Resolvidos 
   - [UriOnlineJudge](https://github.com/emimuniz/URIONLINEJUGDLE)
   - [Faculdade](https://github.com/emimuniz/TrabalhosFaculdade)
+- 💡 Cursos 
+  - [Curso Javascript Origamid](https://github.com/emimuniz/JSOrigamid)
   - [Curso Javascript Ninja](https://github.com/emimuniz/curso-javascript-ninja)
   - [Curso Node.JS Avançado](https://github.com/emimuniz/Curso-Node.JS-Avan-ado)
   - [Curso Node.JS Basico](https://github.com/emimuniz/CursoNodeJS)
