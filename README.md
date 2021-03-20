@@ -27,7 +27,7 @@
 
 
 ## 🏷️ Projetos com JS 
-- [💡 BackgroundHexChange](hhttps://github.com/emimuniz/Praticando-Js/tree/master/BackgroundHexChange)
+- [💡 BackgroundHexChange](https://github.com/emimuniz/Praticando-Js/tree/master/BackgroundHexChange)
 - [💡 BorderRadiusPreviewer](https://github.com/emimuniz/Praticando-Js/tree/master/BorderRadiusPreviewer)
 - [💡 CRUD](https://github.com/emimuniz/Praticando-Js/tree/master/CRUD)
 - [💡 ChangeBackground](https://github.com/emimuniz/Praticando-Js/tree/master/ChangeBackground)
