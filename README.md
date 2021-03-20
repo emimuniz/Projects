@@ -26,15 +26,22 @@
 - [💡 Rocket Insta - Projeto 07](https://github.com/emimuniz/Projetos_Rockseat/tree/master/Projetos_Rockseat/Projeto_07/ReactJS)
 
 
-## 🏷️ Projetos com JS
-- [💡 Convertendo Numeros Binarios](https://github.com/emimuniz/Praticando-Js/tree/master/ConvertNumberBinaries)
-- [💡 Border-radius Previewer](https://github.com/emimuniz/Praticando-Js/tree/master/BorderRadiusPreviewer)
-- [💡 Loading](https://github.com/emimuniz/Praticando-Js/tree/master/Loading)
-- [💡 Motivational Phrases](https://github.com/emimuniz/Praticando-Js/tree/master/MotivationalPhrases)
-- [💡 Snake Game](https://github.com/emimuniz/Praticando-Js/tree/master/SnakeGame)
-- [💡 Tomorrowland](https://github.com/emimuniz/Praticando-Js/tree/master/Tomorrowland)
+## 🏷️ Projetos com JS 
+- [💡 BackgroundHexChange](hhttps://github.com/emimuniz/Praticando-Js/tree/master/BackgroundHexChange)
+- [💡 BorderRadiusPreviewer](https://github.com/emimuniz/Praticando-Js/tree/master/BorderRadiusPreviewer)
+- [💡 CRUD](https://github.com/emimuniz/Praticando-Js/tree/master/CRUD)
+- [💡 ChangeBackground](https://github.com/emimuniz/Praticando-Js/tree/master/ChangeBackground)
 - [💡 ClearHair](https://github.com/emimuniz/Praticando-Js/tree/master/ClearHair)
-- [💡 Crud](https://github.com/emimuniz/Praticando-Js/tree/master/CRUD)
+- [💡 ConvertNumberBinaries](https://github.com/emimuniz/Praticando-Js/tree/master/ConvertNumberBinaries)
+- [💡 Counter](https://github.com/emimuniz/Praticando-Js/tree/master/Counter)
+- [💡 ImageSlider](https://github.com/emimuniz/Praticando-Js/tree/master/ImageSlider)
+- [💡 Loading](https://github.com/emimuniz/Praticando-Js/tree/master/Loading)
+- [💡 MotivationalPhrases](https://github.com/emimuniz/Praticando-Js/tree/master/MotivationalPhrases)
+- [💡 PassMessage](https://github.com/emimuniz/Praticando-Js/tree/master/PassMessagel)
+- [💡 RandomQuotes](https://github.com/emimuniz/Praticando-Js/tree/master/RandomQuotes)
+- [💡 SnakeGame](https://github.com/emimuniz/Praticando-Js/tree/master/SnakeGame)
+- [💡 Tomorrowland](https://github.com/emimuniz/Praticando-Js/tree/master/Tomorrowland) (Em construção)
+
 
 
 ## 📚 Estudos
