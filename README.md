@@ -48,6 +48,8 @@
 - 💡 Exercicios Resolvidos 
   - [UriOnlineJudge](https://github.com/emimuniz/URIONLINEJUGDLE)
   - [Faculdade](https://github.com/emimuniz/TrabalhosFaculdade)
+  - [CodeWars](https://github.com/emimuniz/CodeWars)
+
 - 💡 Cursos 
   - [Curso Javascript Origamid](https://github.com/emimuniz/JSOrigamid)
   - [Curso Javascript Ninja](https://github.com/emimuniz/curso-javascript-ninja)
