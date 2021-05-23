@@ -37,7 +37,7 @@
 - [💡 ImageSlider](https://github.com/emimuniz/Praticando-Js/tree/master/ImageSlider)
 - [💡 Loading](https://github.com/emimuniz/Praticando-Js/tree/master/Loading)
 - [💡 MotivationalPhrases](https://github.com/emimuniz/Praticando-Js/tree/master/MotivationalPhrases)
-- [💡 PassMessage](https://github.com/emimuniz/Praticando-Js/tree/master/PassMessagel)
+- [💡 PassMessage](https://github.com/emimuniz/Praticando-Js/tree/master/PassMessage)
 - [💡 RandomQuotes](https://github.com/emimuniz/Praticando-Js/tree/master/RandomQuotes)
 - [💡 SnakeGame](https://github.com/emimuniz/Praticando-Js/tree/master/SnakeGame)
 - [💡 Tomorrowland](https://github.com/emimuniz/Praticando-Js/tree/master/Tomorrowland) (Em construção)
